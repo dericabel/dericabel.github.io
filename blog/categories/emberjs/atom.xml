@@ -4,7 +4,7 @@
   <title><![CDATA[Category: EmberJS | A New Web Developer's Blog]]></title>
   <link href="http://blog.dericabel.com/blog/categories/emberjs/atom.xml" rel="self"/>
   <link href="http://blog.dericabel.com/"/>
-  <updated>2013-10-12T13:23:19-06:00</updated>
+  <updated>2013-10-12T13:26:41-06:00</updated>
   <id>http://blog.dericabel.com/</id>
   <author>
     <name><![CDATA[Deric Abel]]></name>
@@ -18,7 +18,7 @@
     <link href="http://blog.dericabel.com/blog/2013/10/12/the-first/"/>
     <updated>2013-10-12T08:33:00-06:00</updated>
     <id>http://blog.dericabel.com/blog/2013/10/12/the-first</id>
-    <content type="html"><![CDATA[<h1>The First</h1>
+    <content type="html"><![CDATA[<h2>The first of many</h2>
 
 <p>So I have started writing code with EmberJS over the past month and felt it would be good to give back to the community.  I figure a blog would be a great place to write about my experiences and trials with JavaScript and EmberJS.
 First off, I am a very new web developer, I have only been writing javascript for the past 3 years and fulltime only in the past 2 months.  So I will have mistakes and errors in my thinking but I welcome all constructive critism.  I think we can all learn from each other.</p>
