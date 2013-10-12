@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://dericabel.github.io/atom.xml" rel="self"/>
-  <link href="http://dericabel.github.io/"/>
-  <updated>2013-10-12T08:40:26-06:00</updated>
-  <id>http://dericabel.github.io/</id>
+  <title><![CDATA[A New Web Developer's Blog]]></title>
+  <link href="http://blog.dericabel.com/atom.xml" rel="self"/>
+  <link href="http://blog.dericabel.com/"/>
+  <updated>2013-10-12T13:11:34-06:00</updated>
+  <id>http://blog.dericabel.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Deric Abel]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The First]]></title>
-    <link href="http://dericabel.github.io/blog/2013/10/12/the-first/"/>
+    <link href="http://blog.dericabel.com/blog/2013/10/12/the-first/"/>
     <updated>2013-10-12T08:33:00-06:00</updated>
-    <id>http://dericabel.github.io/blog/2013/10/12/the-first</id>
+    <id>http://blog.dericabel.com/blog/2013/10/12/the-first</id>
     <content type="html"><![CDATA[<h1>The First</h1>
 
 <p>So I have started writing code with EmberJS over the past month and felt it would be good to give back to the community.  I figure a blog would be a great place to write about my experiences and trials with JavaScript and EmberJS.
